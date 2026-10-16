@@ -1,0 +1,6 @@
+id=adreno_v840_vulkan
+name=Adreno v840 Vulkan driver
+version=v840-1
+versionCode=1
+author=4-8-2-1-1-7
+description=Qualcomm Adreno a7xx Vulkan driver v840 (07/2025, Vulkan 1.4) for ruan/dizi. Vulkan only; OpenGL ES stays stock. Remove the module to go back to the stock driver.
